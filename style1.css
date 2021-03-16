@@ -48,7 +48,7 @@ body{
 	}
 
 	.tool a:hover {
-		background-color: #EF959D;
+		background-color: #FAEBD7;
 		color: #71686C;
 	}
 
@@ -86,6 +86,7 @@ body{
   padding: 20px;
   text-align: center;
   background-color: #71686C;
+  font-size: 20px;
 }
 
 .footer a {
