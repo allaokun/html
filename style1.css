@@ -92,20 +92,22 @@ body{
 .footer a {
 	color: #B8D8BA
 }
-
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
 
 .gallery {
   margin: 5px;
   border: 1px solid #ccc;
   float: Left;
   width: 160px;
- padding-left: 5%;
+ 
 	
   }
 
 .gallery:hover {
-	margin: 5px;
-  border: 1px solid #555;
+ border: 1px solid #555;
 }
 
 
