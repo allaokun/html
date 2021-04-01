@@ -97,14 +97,14 @@ body{
   margin: 5px;
   border: 1px solid #ccc;
   float: Left;
-  width: 100px;
+  width: 140px;
  
 	
   }
 
 .gallery:hover {
  border: 1px solid #777;
-	background-color:grey;
+background-color:grey;
 }
 
 
