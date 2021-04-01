@@ -101,13 +101,13 @@ body{
   margin: 5px;
   border: 1px solid #ccc;
   float: Left;
-  width: 160px;
+  width: 100px;
  
 	
   }
 
 .gallery:hover {
- border: 1px solid #555;
+ border: 1px solid #777;
 }
 
 
