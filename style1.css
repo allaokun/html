@@ -104,13 +104,14 @@ body{
 
 .gallery:hover {
   border: 1px solid #777;
-	padding-left: 5%;
+  
 }
 
 
 .gallery img {
   width: 100%;
   height: auto;
+   padding-left: 5%;
 }
 
 
