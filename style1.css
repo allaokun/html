@@ -100,10 +100,11 @@ body{
   float: Left;
   width: 160px;
  padding-left: 5%;
+	opacity: 1;
   }
 
 .gallery:hover {
-  
+ opacity: 1; 
 background-color: grey;
 }
 
