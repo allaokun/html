@@ -26,7 +26,7 @@ p {
 body{
 		direction:ltl;
 		font-family: sans-serif;
-		font-size:14px;
+		font-size:24px;
 		margin: 0;
 	}
 
@@ -45,6 +45,7 @@ body{
 		padding: 24px 30px;
 		text-decoration: none;
 		text-align: center;
+		font-size:24px;
 	}
 
 	.tool a:hover {
