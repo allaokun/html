@@ -104,7 +104,8 @@ body{
   }
 
 .gallery:hover {
-  background-color: #FAEBD7;
+	margin: 5px;
+  border: 1px solid #555;
 }
 
 
