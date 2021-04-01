@@ -105,7 +105,8 @@ body{
 .gallery:hover {
   margin: 5px;
   border: 1px solid #ccc;
-  
+  padding-left: 5%;
+background-color: grey;
 }
 
 
