@@ -103,8 +103,9 @@ body{
   }
 
 .gallery:hover {
+	margin: 5px;
   border: 1px solid #777;
-  
+  background-color: gold;
 }
 
 
