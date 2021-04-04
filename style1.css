@@ -97,6 +97,7 @@ body{
 .gallery {
   width: 160px;
  padding-left: 40px;
+	margin:10px
 	
   }
 
@@ -108,4 +109,11 @@ body{
 .gallery img:hover {
 border: 10px solid grey;
 }
+.list{
+font-size:20px;
+}
 
+.list a:hover {
+	color:#333399;
+	font-size:20px;
+}
