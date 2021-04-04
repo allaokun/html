@@ -97,7 +97,10 @@ body{
 .gallery {
   width: 160px;
  padding-left: 40px;
-	margin:10px
+margin-top: 100px;
+  margin-bottom: 10px;
+  margin-right: 50px;
+  margin-left: 50px;
 	
   }
 
@@ -115,5 +118,5 @@ font-size:20px;
 
 .list a:hover {
 	color:#333399;
-	font-size:20px;
+	font-size:30px;
 }
