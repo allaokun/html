@@ -110,8 +110,8 @@ margin-top: 10px;
    }
 
 .gallery img:hover {
-width: 260px;
-border: 10px solid grey;
+width: 240px;
+border: 6px solid grey;
 }
 .list {
 font-size:20px;
